@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Kafo",
+    "Address": "Jana Siemińskiego 14, 44-100 Gliwice",
+    "Lat": "50,296484",
+    "Lon": "18,660112"
+  },
+  {
+    "Name": "Synergia Dobre Miejsce",
+    "Address": "Opolska 18, 40-082 Katowice",
+    "Lat": "50,261683",
+    "Lon": "19,012846"
+  },
+  {
+    "Name": "Synergia",
+    "Address": "Andrzeja 29/2, 40-000 Katowice",
+    "Lat": "50,257054",
+    "Lon": "19,014008"
+  },
+  {
+    "Name": "Bez Cukru",
+    "Address": "al. Korfantego 6, 40-004 Katowice",
+    "Lat": "50,262523",
+    "Lon": "19,022109"
+  },
+  {
+    "Name": "3 Siostry Bajgiel i Kawa Bogucicka",
+    "Address": "Bogucicka 6, 40-226 Katowice",
+    "Lat": "50,259324",
+    "Lon": "19,043818"
+  },
+  {
+    "Name": "3 Siostry Bajgiel i Kawa",
+    "Address": "Świętego Stanisława 8, 40-000 Katowice",
+    "Lat": "50,257884",
+    "Lon": "19,026237"
+  },
+  {
+    "Name": "Kafej",
+    "Address": "Chorzowska 5, 40-121 Katowice",
+    "Lat": "50,265368",
+    "Lon": "19,021723"
+  },
+  {
+    "Name": "Coffeedesk Kawiarnia",
+    "Address": "Wilcza 42, 00-678 Warszawa",
+    "Lat": "52,224568",
+    "Lon": "21,013469"
+  },
+  {
+    "Name": "Drukarnia",
+    "Address": "Mariacka 36, 80-833 Gdańsk",
+    "Lat": "54,349641",
+    "Lon": "18,65593"
+  },
+  {
+    "Name": "Stragan",
+    "Address": "Ratajczaka 31, 61-816 Poznań",
+    "Lat": "52,406961",
+    "Lon": "16,925005"
+  },
+  {
+    "Name": "Las",
+    "Address": "Jana Jerzego Haffnera 42, 81-708 Sopot",
+    "Lat": "54,447521",
+    "Lon": "18,564205"
+  },
+  {
+    "Name": "Black & White",
+    "Address": "Władysława IV 28, 81-361 Gdynia",
+    "Lat": "54,520115",
+    "Lon": "18,53877"
+  },
+  {
+    "Name": "La Mano",
+    "Address": "Władysława Orkana 1, 34-500 Zakopane",
+    "Lat": "49,292365",
+    "Lon": "19,952566"
+  },
+  {
+    "Name": "Wesoła Cafe",
+    "Address": "Rakowicka 17, 31-511 Kraków",
+    "Lat": "50,04004",
+    "Lon": "19,57077"
+  },
+  {
+    "Name": "Kofeina Art Cafe",
+    "Address": "Tadeusza Kościuszki 31, 45-062 Opole",
+    "Lat": "50,66736",
+    "Lon": "17,931305"
+  },
+  {
+    "Name": "Kofeina 2.0",
+    "Address": "Plac Teatralny 12, 45-056 Opole",
+    "Lat": "50,669285",
+    "Lon": "17,932722"
+  },
+  {
+    "Name": "Hamaky",
+    "Address": "Nadrzeczna, 26-630 Jedlnia-Letnisko",
+    "Lat": "51,438195",
+    "Lon": "21,314364"
+  },
+  {
+    "Name": "Kawaleria",
+    "Address": "Krakowska 30A, 45-075 Opole",
+    "Lat": "50,666006",
+    "Lon": "17,92461"
+  },
+  {
+    "Name": "Kofeina Specialty Coffee",
+    "Address": "Wrocławska 152/154, 45-837 Opole",
+    "Lat": "50,685582",
+    "Lon": "17,877447"
+  },
+  {
+    "Name": "My Coffee Porto",
+    "Address": "Escadas do Codeçal 22, 4000-509 Porto, Portugalia",
+    "Lat": "41,1412225",
+    "Lon": "-8,6073753"
+  },
+  {
+    "Name": "Cisza na morzu",
+    "Address": "Dygata 3/U6, 01-748 Warszawa",
+    "Lat": "52,256334",
+    "Lon": "20,967816"
+  },
+  {
+    "Name": "Mała Czarna - kawiarnia",
+    "Address": "aleja Ignacego Jana Paderewskiego 35, 51-612 Wrocław",
+    "Lat": "51,117497",
+    "Lon": "17,090363"
+  },
+  {
+    "Name": "Cafe Targowa",
+    "Address": "Piaskowa 17, Stoisko 11, 50-158 Wrocław",
+    "Lat": "51,112601",
+    "Lon": "17,040813"
+  },
+  {
+    "Name": "Ire'n'ka Specialty Coffee",
+    "Address": "Rynek 27, 43-302 Bielsko-Biała",
+    "Lat": "49,82095",
+    "Lon": "19,04289"
+  },
+  {
+    "Name": "Pukawka",
+    "Address": "Mieczysława Niedziałkowskiego 27, 42-400 Zawiercie",
+    "Lat": "50,4904492",
+    "Lon": "19,428403"
+  }
+]
